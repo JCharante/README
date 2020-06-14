@@ -11,7 +11,11 @@ A repo containing a readme file, I had a class where to submit your homework, yo
 
 We needed to do a landing page for ourselves. I liked it enough to replace my main page with it (see jcharante.github.io)
 
-### [https://github.com/JCharante/a2-shortstack](https://github.com/JCharante/a2-shortstack)
+### [al](https://github.com/JCharante/al)
+
+(A private repo). Wow I can't believe I found this. Basically a journal written in LaTeX that I last updated in 2017.
+
+### [a2-shortstack](https://github.com/JCharante/a2-shortstack)
 
 A repo containing a readme file, I had a class where to submit your homework, you needed to file a PR. So we had to fork their repo and edit our readme, which actually contained information about what we're submitting.
 
@@ -37,6 +41,10 @@ A repo containing a readme file, I had a class where to submit your homework, yo
 
 For this specific project, we needed to port our project to use a different database. Most people were using an SQL DBMS and were challenged to port their software to MongoDB or another NOSQL. Since I was already suing MongoDB, I ported mine to DocumentDB. Thankfully for me, DocumentDB at the time was API compatible with MongoDB, so this readme is just me going "hey so technically nothing changes because you just need to change the environmental variable that hosts the connection string, and I'm not comitting my connection string". I got a 100% on the assignment. While sometimes being a smartass is not beneficial, this let me spend my time on other projects that interested me more and gave me a funny story.
 
+### [BaxterEPCSWeek1](https://github.com/JCharante/BaxterEPCSWeek1)
+
+I think we were trying to teach kids at our school's summer camp to code or something.
+
 ### [bb3010](https://github.com/JCharante/bb3010)
 
 A private repo containing the source code for my assignments in BB 3013, I think it's called Simulations in Biology and dealt with agent based modeling in netlogo. It was certainly an interesting class.
@@ -45,9 +53,25 @@ A private repo containing the source code for my assignments in BB 3013, I think
 
 A private repo containing the source code for the technical assignment that bookbub assigned me when I applied for their internship program.
 
+### [cos161](https://github.com/JCharante/cos161)
+
+Ah... I took me a second to realize what this was.
+
+So while in High School I took a random java class at a local state university. I found the homework boring because it was too simple. It was a great learning experience though: 
+
+I didn't realize that finals (or was it midterms?) could be outside regularly scheduled hours, so by the time my parents dropped me off at the university was about an hour after the exam had ended. I realized because I saw that the classroom was empty and then I checked my email. I was kind embarassed and didn't feel like catching up on the homework assignments, so I just ghosted the class. Man now I feel bad. My classmates were like regular people, they were cool. Definetely different people than what you find at a private university.
+
 ### [cs1102](https://github.com/JCharante/cs1102)
 
 A private repo containing source code for my first class at WPI (for both CS and literally since it met at 8am). It was my first introduction to functional programming. I still don't understand why people decided to write a webapp to control their drone using Haskell (unrelated to this class but related to functional programming).
+
+### [https://github.com/JCharante/cs1102-assignment2](https://github.com/JCharante/cs1102-assignment2)
+
+We had different partners for each assignment so each assignment needed its own access control.
+
+### [cs1102-assignment3](https://github.com/JCharante/cs1102-assignment3)
+
+We had different partners for each assignment so each assignment needed its own access control.
 
 ### [CS2011](https://github.com/JCharante/CS2011)
 
@@ -101,6 +125,10 @@ A private repo containing the solutions for my homework in WPI's CS 4432 (I thin
 
 A private repo containing the solutions for my homework in WPI's Information Retrieval and Social Web. 
 
+### [datalab-handout](https://github.com/JCharante/datalab-handout)
+
+No idea why this is its own repo (it's a project from CS 2011).
+
 ### [district-one-api](https://github.com/JCharante/district-one-api)
 
 The source code for the API running in google cloud functions that powers District One Stats (formerly frc.gg)
@@ -108,6 +136,10 @@ The source code for the API running in google cloud functions that powers Distri
 ### [district-one-spa](https://github.com/JCharante/district-one-spa)
 
 The source code for the single page application of District One Stats (formerly frc.gg).
+
+### [door-bell](https://github.com/JCharante/door-bell)
+
+Honestly I don't know what this is supposed to be but there's arduino code in this repository. And this is only from two years ago.. Wow I should see a doctor for this memory loss.
 
 ### [earth-reverse-engineering](https://github.com/JCharante/earth-reverse-engineering)
 
@@ -131,7 +163,11 @@ The source code for the original 2019 versin of frc.gg
 
 You can view it live here https://s3.amazonaws.com/frc.gg.jcharante.com/index.html# but it's like a 20MB load.
 
-### [https://github.com/JCharante/geolocation-demo](https://github.com/JCharante/geolocation-demo)
+### [feasibility-study](https://github.com/JCharante/feasibility-study)
+
+Now an empty repo. I had a bunch of research here from my capstone project in high school, but I never pushed to remote and then my hard drive failed. Decided to stop working on my capstone and take classes instead. A good lesson to learn while it's not expensive to fial.
+
+### [geolocation-demo](https://github.com/JCharante/geolocation-demo)
 
 Oh hey this actually works! Yeah it's just a simple html page that will display your coordinates using the web api. I think that this was used as a precursor to shout, a project for a hackathon.
 
@@ -175,21 +211,53 @@ It's supposed to be a set of vue components that I can use for a universal sign 
 
 A private repo containing notes from when I took Calc 2 (MA 1022). 
 
+### [nada-answers](https://github.com/JCharante/nada-answers)
+
+So right before taking a train to Boston, this person showed me this silly site that they wasted a bunch of time on. I was kinda shocked in horror with how much time they wasted, so I threw together this POC to replicate the functionality of that site. 
+
+### [notes](https://github.com/JCharante/notes)
+
+A private repo with some notes from classes in high school. 
+
+### [now-github-starter](https://github.com/JCharante/now-github-starter)
+
+Earlier I mentioned that I used to use zeit.co. I think the product that I used was branded as now.sh (not to be confused with hyper.sh). Anyways this is just a template project that I forked.
+
 ### [old.frc.gg](https://github.com/JCharante/old.frc.gg)
 
 Honestly I don't know, it's an empty repository with a readme.
+
+### [PBC_Framework](https://github.com/JCharante/PBC_Framework)
+
+Ah it's a whitepaper for a better alternative to Duolingo and Khan Academy. I've since become more cynical and just say that Anki is the solution to everything.
+
+### [ponto](https://github.com/JCharante/ponto)
+
+I got tired of writing a lot of the same code to integrate my shocking bracelet, so I built an API that would forward requests to my bracelet's API. 
+
+### [quotes](https://github.com/JCharante/quotes)
+
+A private repo of markdown files containing quotes i like.
+
+### [schedule](https://github.com/JCharante/schedule)
+
+A project I worked on to help with my high school's requirements. Basically they changed the graduation requirements every year and classes counted differently depending on what year you took them so it was confusing. Never finished it but I started it around the time I showed Willette the This Is Eve Trailer in a room at Salt.
 
 ### [shout](https://github.com/JCharante/shout)
 
 My project from the only Hackathon I've done. Basically you need to go to this website to update your location, and then you can text this number. It'll then relay your message to anyone else within a certain distance from you. I wanted to do a centralized geographical groupchat but it was hard to handle updating user's locations without a dedicated app, but for the POC we just did it like this. We won first place in one of the categories but there were only like 2 other teams so we all got first place in a category lol.
 
-### [https://github.com/JCharante/shout-app](https://github.com/JCharante/shout-app)  
+### [shout-app](https://github.com/JCharante/shout-app)  
 
 This is just an empty repo? No idea why there's shout and shout-app.
 
 ### [sgp1-prox](github.com/JCharante/sgp1-prox)
 
 I have a docker swarm in the region `sgp1`. This docker container/service acts as a nginx reverse proxy, and is able to do so because of Docker Swarm's network routing mesh. It supports TLS and auto redirects HTTP requests to HTTPS. In production, it is behind Cloudflare, and works with their Full (Struct) TLS settings. 
+
+### [snoo-snooze](https://github.com/JCharante/snoo-snooze)
+
+I was trying to quit Reddit so I built a crawler that would scan reddit for new comments or posts from me, and I wore a shocking bracelet (Pavlok) connected to my phone via bluetooth. Whenever the crawler saw activity from me, it would shock me. Unfortunately the crawler wasn't able to be realtime to avoid rate limiting, so it would kick in a few minutes into a reddit session and shock me like 5 times in a row. 
 
 ### [speech2face](https://github.com/JCharante/speech2face)
 
@@ -198,6 +266,10 @@ I forked this. I totally forgot what I wanted to do with this.
 ### [TBAPIv3](https://github.com/JCharante/TBAPIv3)
 
 So this is a fork where I made a modification because I was using it when working on frc.gg and needed to fix a bug in the library. It was fairly trivial to get my changes approved because by complete coincidence the person that wrote this library was going to be my roommate next year so I already had his contact details.
+
+### [Text-to-Image-Synthesis](https://github.com/JCharante/Text-to-Image-Synthesis)
+
+Something I forked, probably because of my high school CS teacher.
 
 ### [triage-server-v2](https://github.com/JCharante/triage-server-v2)
 
