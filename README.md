@@ -63,7 +63,7 @@ A private repo containing the code code for CS 3013, Operating Systems. My homew
 
 A private repo containing source code for Software Engineering assignments. 
 
-### (AustinShalit/CS3733-Hospital-Kiosk-Application)[https://github.com/AustinShalit/CS3733-Hospital-Kiosk-Application]
+### [AustinShalit/CS3733-Hospital-Kiosk-Application](https://github.com/AustinShalit/CS3733-Hospital-Kiosk-Application)
 
 So this repo is actually hosted on a teammate's namespace. It's our project from CS 3733, Software Engineering with Professor Wong. It's a hospital kiosk application for a certain hospital in Boston. We got second place at the end (during the first evaluation session we got last place, so it was a big jump in the rankings). 
 
