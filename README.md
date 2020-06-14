@@ -45,6 +45,24 @@ A private repo containing the source code for my assignments in BB 3013, I think
 
 A private repo containing the source code for the technical assignment that bookbub assigned me when I applied for their internship program.
 
+### [cs1102](https://github.com/JCharante/cs1102)
+
+A private repo containing source code for my first class at WPI (for both CS and literally since it met at 8am). It was my first introduction to functional programming. I still don't understand why people decided to write a webapp to control their drone using Haskell (unrelated to this class but related to functional programming).
+
+### [CS2011](https://github.com/JCharante/CS2011)
+
+A private repo containing the source code of my solutions for CS 2011, WPI's Machine Organization and Assembly language.
+
+This is one of the hardest classes I've taken, but it's also one that I really enjoyed :)
+
+### [cs2102](https://github.com/JCharante/cs2102)
+
+A private repo containing solns for my java class. I honestly skipped all the lectures because the professor posted the notes ahead of time and I realized that I already knew everything. I was busy taking CS 2011 at the time so an easy class was appreaciated.
+
+### [cs2102-labs](https://github.com/JCharante/cs2102-labs)
+
+So the previous class had "lab" assignments where we if we had a partner we would receive bonus points. I originally worked alone, then I realized that my roommate was partners with our neighbor but my roommate was forced to do all the work, so I took my roommate on as a partner and then I started doing all the work.
+
 ### [cs2223](https://github.com/JCharante/cs2223)
 
 A private repo containing the source code for the algorithms class assignments that Professor H. gave out. I took this class while taking Soft Eng and punted this class (ended up getting a C).
@@ -91,9 +109,17 @@ The source code for the API running in google cloud functions that powers Distri
 
 The source code for the single page application of District One Stats (formerly frc.gg).
 
+### [earth-reverse-engineering](https://github.com/JCharante/earth-reverse-engineering)
+
+This is just a cool project that I forked and didn't touch.
+
 ### [ece2010](https://github.com/JCharante/ece2010)
 
 A private repository containing solutions for ECE 2010. I had difficulty with this class because my education prior to this was based on Problem Solving and not practicing memorization, while this class focused on remembering certain formulas and applying them in situations. Basically I was too stubborn to practice. It certainly turned me off from taking future electrical engineering classes, but that's the purpose of a survey class.
+
+### [esperanto-subs](https://github.com/JCharante/esperanto-subs)
+
+A private repo, maybe I should add to it and make it public soon. Basically it's srt files that I created to subtitle content into Esperanto.
 
 ### [frc-gg](github.com/JCharante/frc-gg)
 
@@ -104,6 +130,10 @@ A private repo containing scripts for doing database operations on the new versi
 The source code for the original 2019 versin of frc.gg
 
 You can view it live here https://s3.amazonaws.com/frc.gg.jcharante.com/index.html# but it's like a 20MB load.
+
+### [https://github.com/JCharante/geolocation-demo](https://github.com/JCharante/geolocation-demo)
+
+Oh hey this actually works! Yeah it's just a simple html page that will display your coordinates using the web api. I think that this was used as a precursor to shout, a project for a hackathon.
 
 ### [grades-calculator](https://github.com/JCharante/grades-calculator)
 
@@ -153,6 +183,10 @@ Honestly I don't know, it's an empty repository with a readme.
 
 My project from the only Hackathon I've done. Basically you need to go to this website to update your location, and then you can text this number. It'll then relay your message to anyone else within a certain distance from you. I wanted to do a centralized geographical groupchat but it was hard to handle updating user's locations without a dedicated app, but for the POC we just did it like this. We won first place in one of the categories but there were only like 2 other teams so we all got first place in a category lol.
 
+### [https://github.com/JCharante/shout-app](https://github.com/JCharante/shout-app)  
+
+This is just an empty repo? No idea why there's shout and shout-app.
+
 ### [sgp1-prox](github.com/JCharante/sgp1-prox)
 
 I have a docker swarm in the region `sgp1`. This docker container/service acts as a nginx reverse proxy, and is able to do so because of Docker Swarm's network routing mesh. It supports TLS and auto redirects HTTP requests to HTTPS. In production, it is behind Cloudflare, and works with their Full (Struct) TLS settings. 
@@ -181,9 +215,21 @@ A webapp written over a weekend for a homework assignment. Basically it's a todo
 
 A webapp for analyzing vietnamese text documents for English speakers learning Vietnamese. Inspired by chinesetextanalyzer.com
 
+### [web-example](https://github.com/JCharante/web-example)
+
+Oh I totally forgot about this. I was trying to explain and demonstrate how servers worked to an ex. No idea why I bothered creating a requirements.txt file, that seems a little overkill.
+
 ### [where-to](https://github.com/JCharante/where-to)
 
 This is the source code for the project described in `a4-___` at the top of this repo.
+
+### [yama](https://github.com/JCharante/yama)
+
+Yet Another Music App
+
+More like, Yet Another mProject aIDidn'tDo (the m and a are silent)
+
+Basically at the time I was using Clementine with a backup to AWS S3 to sync between computers. Occasionally I would export it to my phone, but I realized that it's a pain when you're at the airport and you just realized that you MUST listen to this set on the plane. So originally I thought I'd create an alternative to PLEX, but I ended up just subscribing to Youtube Music.
 
 ### [You-Dont-Know-JS](https://github.com/JCharante/You-Dont-Know-JS)
 
@@ -200,3 +246,7 @@ So yourfinalgrade.com actually started out as a final project for a class on web
 ### [your-final-grade-spa](https://github.com/JCharante/your-final-grade-spa)
 
 The source code for the webapp of yourfinalgrade.com. It's a pretty great Single Page Application (used for calculating your final grade in a class, but you can use it to determine what assignments to punt)
+
+### [zeit-python-demo](https://github.com/JCharante/zeit-python-demo)
+
+So I used to use zeit.co as a host for projects. One of the languages I used to use with it was python. I guess I wanted to create a demo repo at some point but actually didn't do it??
